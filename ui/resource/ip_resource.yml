@@ -1,0 +1,24 @@
+# 用作视频连接
+ip1:
+#  address: 0.0.0.0
+  address: 127.0.0.1
+  port: 6666
+# 用作实时日志
+ip2:
+#  address: 10.193.113.197
+  address: 127.0.0.1
+  port: 1123
+# 用作检测结果
+ip3:
+#  address: 10.193.113.197
+  address: 127.0.0.1
+  port: 8880
+# 实时日志模块展示的日志条目数
+log:
+  num: 10
+# 视频录制功能参数设定
+video:
+  path: video
+  fps: 10
+  width: 960
+  height: 540

@@ -1,0 +1,9 @@
+# pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/
+# python's version is 3.8
+# base ----------------------------------------
+numpy
+opencv-python
+PyYAML
+pyqt5
+pyqt5_tools
+pymysql
